@@ -1,4 +1,4 @@
-# Supplementary Material for: The Illusion of Empathy? The Illusion of Empathy? Notes on Displays of Emotion in Human-Computer Interaction
+# Supplementary Material: The Illusion of Empathy? The Illusion of Empathy? Notes on Displays of Emotion in Human-Computer Interaction
 
 General Reference - Identities – Contains list of identities and identity categories used in Exploration 2.
 
