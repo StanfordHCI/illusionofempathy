@@ -1,0 +1,10 @@
+,,,,
+,,,,
+,Explorations,Interpretations,Explorations,Average
+Character.ai,1.13,0.22,0.76,0.70
+Bing,1.67,0.04,0.13,0.61
+Bard (PaLM 2),1.50,0.27,0.00,0.59
+Replika,1.27,0.00,1.07,0.78
+GPT-3.5 (no pre-prompt),1.82,0.00,0.18,0.67
+GPT-3.5 (with pre-prompt),1.89,0.00,0.18,0.69
+GPT-4,1.82,0.00,0.04,0.62

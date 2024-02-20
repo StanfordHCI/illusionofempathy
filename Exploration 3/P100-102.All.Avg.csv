@@ -1,0 +1,27 @@
+,,,,
+,,,,
+Empathizer,Emotional Reactions,Interpretations,Explorations,Total Score
+"Reddit post title: 21 M, Is this really it? (Aug 22, 2023)",,,,
+Human,0.369,1.231,0.062,1.662
+GPT-4 IDs,1.985,0.000,0.000,1.985
+GPT-4 EP,1.923,0.031,0.000,1.954
+GPT-4 NEP,1.923,0.000,0.000,1.923
+GPT-3.5 IDs,1.538,0.154,0.000,1.692
+GPT-3.5 EP,1.877,0.215,0.000,2.092
+GPT-3.5 NEP,1.923,0.000,0.000,1.923
+"Reddit post title: I survived a school shooting, but now I can’t do anything. (Dec 3, 2021)",,,,
+Human,1.267,0.500,0.000,1.767
+GPT-4 IDs,2.000,0.000,0.000,2.000
+GPT-4 EP,2.000,0.000,0.000,2.000
+GPT-4 NEP,2.000,0.000,0.000,2.000
+GPT-3.5 IDs,2.000,0.000,0.277,2.277
+GPT-3.5 EP,2.000,0.000,0.154,2.154
+GPT-3.5 NEP,2.000,0.000,0.092,2.092
+"Reddit post title: I paid for sex. (Aug 20, 2023)",,,,
+Human,0.538,0.277,0.338,1.154
+GPT-4 IDs,2.000,0.000,0.000,2.000
+GPT-4 EP,2.000,0.000,0.000,2.000
+GPT-4 NEP,2.000,0.000,0.000,2.000
+GPT-3.5 IDs,2.000,0.000,0.000,2.000
+GPT-3.5 EP,2.000,0.000,0.000,2.000
+GPT-3.5 NEP,2.000,0.000,0.000,2.000
