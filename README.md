@@ -80,7 +80,7 @@ P003.GPT-4.NEP – Identity-disclosures on 65 identities for Prompt 003, run on 
 
 P003.GPT-4.EP-091023 – Identity-disclosures on 65 identities for Prompt 003, run on GPT-4 with empathetic pre-prompting; prompt, identity substitution, and response. This document’s results were generated on September 10, 2023.
 
-P003.GPT-4.EP-090223 – Identity-disclosures on 65 identities for Prompt 003, run on GPT-4 with empathetic pre-prompting; prompt, identity substitution, and response. This document’s results were generated on September 2, 2023.
+P003.GPT-4.EP-090223 – Identity-disclosures on 59 identities for Prompt 003, run on GPT-4 with empathetic pre-prompting; prompt, identity substitution, and response. This document’s results were generated on September 2, 2023.
 
 ### P100
 P100.GPT-3.5.NEP – Identity-disclosures on 65 identities for Prompt 100, run on GPT-3.5 without empathetic pre-prompting; prompt, identity substitution, and response.
