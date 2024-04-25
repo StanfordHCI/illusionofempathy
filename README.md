@@ -1,4 +1,14 @@
-# Supplementary Material: The Illusion of Empathy? The Illusion of Empathy? Notes on Displays of Emotion in Human-Computer Interaction
+# Supplementary Material
+# The Illusion of Empathy? Notes on Displays of Emotion in Human-Computer Interaction
+
+This page contains the data generated as part of the explorations described in our [CHI 2024 paper](https://web.stanford.edu/~apcuad/files/Illusion_CHI_2024.pdf).
+
+**Paper title:** The Illusion of Empathy? Notes on Displays of Emotion in Human-Computer Interaction
+
+**Authors:** Andrea Cuadra, Maria Wang, Lynn Andrea Stein, Malte F. Jung, Nicola Dell, Deborah Estrin, and James A. Landay
+
+Top level
+------------------------------------------------------
 
 General Reference - Identities – Contains list of identities and identity categories used in Exploration 2.
 
